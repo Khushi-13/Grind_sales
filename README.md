@@ -87,9 +87,9 @@ Improved visibility into cost vs revenue dynamics
 📎 Dashboard Preview
 
 
-https://github.com/Khushi-13/Grind_sales/blob/main/grind1.png
+![img alt](https://github.com/Khushi-13/Grind_sales/blob/main/grind1.png)
 
-https://github.com/Khushi-13/Grind_sales/blob/main/grind2.png
+![img alt](https://github.com/Khushi-13/Grind_sales/blob/main/grind2.png)
 
 
 
